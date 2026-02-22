@@ -1,3 +1,3 @@
 # WomenDay
-Link web demo: https://ngoctientnt.github.io/WomenDay/ \
-Có thể liên hệ mình tại: https://beacons.ai/ngoctientnt/
+Link web demo: https://wonderful-paletas-974d35.netlify.app/ \
+Có thể liên hệ mình tại: https://github.com/Thachdp2808
